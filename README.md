@@ -2,6 +2,7 @@
 
 [Open Project in Google Colab]
 https://colab.research.google.com/drive/1u_QjMdXt4i8QM8-NNAvw4t0291hvREo7?usp=sharing
+https://colab.research.google.com/drive/18TD5oadwRnR5yUmR3b1FEW212uc33nfd?usp=sharing
 
 ## 📌 Project Overview
 
